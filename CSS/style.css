@@ -30,8 +30,9 @@ body {
 .banner {
   background: url('https://cdn.discordapp.com/attachments/763876547416817695/765268969853943878/BANNER.png') no-repeat top center ;
   background-size: cover;
+  background-position: 32% 48%;
   overflow: hidden;
-  padding-top: 450px;
+  padding-top: 300px;
 }
 
 a.social {
