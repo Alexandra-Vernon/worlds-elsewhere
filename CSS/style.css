@@ -70,6 +70,11 @@ p{
     height:auto;
 }
 
+footer {
+	border-top: solid #333;
+	border-top-width: 1px;
+}
+
 a.social {
   display: inline-block;
   text-indent: -9999px;
