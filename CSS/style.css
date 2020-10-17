@@ -63,11 +63,25 @@ p{
 	max-width: 50%;
 	margin-left: auto;
 	margin-right: auto;
-	font-family: 'Halant', serif;
+	font-family: 'Halant', Palatino, Book Antiqua, serif;
 }
 
 h1 {
   font-family: 'Cinzel', Georgia, serif;
+}
+
+p a:link {
+	color: darkred;
+	text-decoration-line: none;
+}
+
+p a:visited {
+	color: darkred;
+	text-decoration-line: none;
+}
+
+p a:hover {
+	color: dimgrey;
 }
 
 .banner {
