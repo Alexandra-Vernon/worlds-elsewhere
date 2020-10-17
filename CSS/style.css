@@ -1,3 +1,9 @@
+
+@font-face {
+	font-family: "Cinzel";
+	src: url("https://fonts.googleapis.com/css2?family=Cinzel&display=swap");
+}
+
 body {
 	margin: 0;
 	text-align: center;
@@ -32,6 +38,7 @@ ul {
 
 li {
   float: left;
+
 }
 
 li a {
@@ -40,6 +47,7 @@ li a {
   text-align: center;
   padding: 14px 35px;
   text-decoration: none;
+  font-family: 'Cinzel', serif;
 }
 
 /* Change the link color to #111 (black) on hover */
@@ -55,6 +63,11 @@ p{
 	max-width: 50%;
 	margin-left: auto;
 	margin-right: auto;
+	font-family: 'Halant', serif;
+}
+
+h1 {
+  font-family: 'Cinzel', Georgia, serif;
 }
 
 .banner {
@@ -72,7 +85,8 @@ p{
 
 footer {
 	border-top: solid #333;
-	border-top-width: 1px;
+	border-top-width: 1px;	
+	font-family: 'Halant', serif;
 }
 
 a.social {
