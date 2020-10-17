@@ -72,12 +72,12 @@ h1 {
 
 p a:link {
 	color: darkred;
-	text-decoration-line: none;
+	text-decoration: none;
 }
 
 p a:visited {
 	color: darkred;
-	text-decoration-line: none;
+	text-decoration: none;
 }
 
 p a:hover {
