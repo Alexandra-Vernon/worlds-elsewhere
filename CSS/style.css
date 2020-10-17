@@ -71,17 +71,17 @@ h1 {
 }
 
 p a:link {
-	color: darkred;
+	color: rgb(171,152,61);
 	text-decoration: none;
 }
 
 p a:visited {
-	color: darkred;
+	color: rgb(171,152,61);
 	text-decoration: none;
 }
 
 p a:hover {
-	color: dimgrey;
+	color: dimgray;
 }
 
 .banner {
